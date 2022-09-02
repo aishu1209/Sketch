@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(214, 157, 214);
+}
+
+
+#score{
+font-size: 50;
+float:left;
+margin-left: 50px;
+
+}
+
+#timer{
+    font-size:50;
+    float:right;
+    margin-right:50px;
+
+}
+
+#sketch_to_draw{
+    color: teal;
+}
